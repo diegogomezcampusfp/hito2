@@ -1,4 +1,4 @@
-EXPLICACION POLIMORFISMO
+EXPLICACIÓN POLIMORFISMO
 
 En el ejemplo que he creado para la cuestión 3, creo una clase nucleo en la cual hay dos variables, las cuales son PSuperior y PInferior.
 Esta clase será la cual tendrá dos clases hijas llamadas Superior y Inferior.
